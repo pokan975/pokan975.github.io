@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "William's Home"
 title_separator          : "-"
 name                     : &name "Po-Kan (William) Shih"
-description              : &description "personal description"
+description              : &description "Research assistant at Arizona State University"
 url                      : https://pokan975.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pokan975/pokan975.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Po-Kan (William) Shih"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research assistant at Arizona State University, expert in reinforcement learning and signal processing"
   location         : "Tempe, Arizona"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fRLJpEEAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "po-kan-shih"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
